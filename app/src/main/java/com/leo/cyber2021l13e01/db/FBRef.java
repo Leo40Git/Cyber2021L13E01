@@ -13,6 +13,7 @@ public final class FBRef {
     public static final String rootNameSubjects = "Subjects";
     public static final String rootNameStudents = "Students";
     public static final String rootNameGrades = "Grades";
+    public static final String[] ROOT_NAMES_FULL = { rootNameSubjects, rootNameStudents, rootNameGrades };
     public static final String[] ROOT_NAMES = { rootNameStudents, rootNameGrades };
 
     public static final DatabaseReference rootSubjects = FBDB.getReference(rootNameSubjects);

@@ -17,7 +17,7 @@ public abstract class ValueEventListenerUI implements ValueEventListener {
     /**
      * Activity to invoke {@link Activity#runOnUiThread(Runnable)} from.
      */
-    private final Activity activity;
+    protected final Activity activity;
 
     protected ValueEventListenerUI(Activity activity) {
         this.activity = activity;
