@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "875550280010",
+    "firebase_url": "https://cyber2021l13e01-6c5c0.firebaseio.com",
+    "project_id": "cyber2021l13e01-6c5c0",
+    "storage_bucket": "cyber2021l13e01-6c5c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875550280010:android:4e623df46eda94f51a99b3",
+        "android_client_info": {
+          "package_name": "com.leo.cyber2021l13e01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875550280010-iqogglskuhkn82vfo9d8gt893euj0nhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzGRXOOnbfjmTPRa4HsbO7D8gdptdvZp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875550280010-iqogglskuhkn82vfo9d8gt893euj0nhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
