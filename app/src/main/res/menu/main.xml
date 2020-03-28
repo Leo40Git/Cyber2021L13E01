@@ -7,8 +7,8 @@
             android:id="@+id/menuView"
             android:title="View" />
     <item
-            android:id="@+id/menuSortFilter"
-            android:title="Sort &amp; Filter" />
+        android:id="@+id/menuFilter"
+        android:title="Filter" />
     <item
             android:id="@+id/menuCredits"
             android:title="Credits" />

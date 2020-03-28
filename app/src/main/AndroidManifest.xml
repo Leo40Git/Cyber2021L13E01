@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".CreditsActivity" android:noHistory="true" />
-        <activity android:name=".SortFilterActivity" android:noHistory="true" />
+        <activity android:name=".FilterActivity" android:noHistory="true" />
         <activity android:name=".ViewActivity" android:noHistory="true" />
         <activity android:name=".InputActivity" android:noHistory="true" >
             <intent-filter>

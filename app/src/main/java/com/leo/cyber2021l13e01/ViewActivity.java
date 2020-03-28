@@ -386,8 +386,8 @@ public class ViewActivity extends AppCompatActivity implements AdapterView.OnIte
             case R.id.menuInput:
                 gi = new Intent(this, InputActivity.class);
                 break;
-            case R.id.menuSortFilter:
-                gi = new Intent(this, SortFilterActivity.class);
+            case R.id.menuFilter:
+                gi = new Intent(this, FilterActivity.class);
                 break;
             case R.id.menuCredits:
                 gi = new Intent(this, CreditsActivity.class);
